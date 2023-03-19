@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+ background-image: url('https://i.pinimg.com/originals/48/83/a9/4883a99a2bde71b3332b0c07222f866e.jpg');
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+h1 {
+  padding: 10px 15px 15px;
+  margin: 5px 0 20px 10px;
+  color: #fff;
+  font-size: 60px;
+}
+
+p {
+  padding: 10px 15px;
+  margin: 3% 45% 0 3%;
+  background-color: #fefefe;
+  color: #111111;
+  font-size: 15px;
+}
